@@ -30,10 +30,11 @@ The script implements these steps:
 
 ## Screenshots
 
-<img src="https://github.com/Leviathan36/SKA/blob/master/IMAGES/complete_execution.png" alt="restore configuration files with CTRL-C" style="display: block;  margin-left: auto; margin-right: auto; width: 65%;">
+<p align="center"><img src="https://github.com/Leviathan36/SKA/blob/master/IMAGES/complete_execution.png" width="65%" height="auto" alt="complete execution"></p>
 <br><br>
-Press CTRL-C to kill all processes and restore the configuration files. <br><br>
-<img src="https://github.com/Leviathan36/SKA/blob/master/IMAGES/restoring_before_exit.png" alt="restore configuration files with CTRL-C" style="display: block;  margin-left: auto; margin-right: auto; width: 65%;">
+Press CTRL-C to kill all processes and restore the configuration files.
+<br><br>
+<p align="center"><img src="https://github.com/Leviathan36/SKA/blob/master/IMAGES/restoring_before_exit.png" width="65%" height="auto" alt="restore configuration files with CTRL-C"></p>
 
 
 ## FAQ
