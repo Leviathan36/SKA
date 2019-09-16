@@ -65,7 +65,7 @@ SKA alerts you if there are some problems with NetworkManager demon or Apache co
 ## Disclaimer:
 Author assume no liability and are not responsible for any misuse or damage caused by this program.
 
-Kaboom is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+SKA is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 ## License:
-Kaboom is released under GPLv3 license. See [LICENSE](LICENSE) for more details.
+SKA is released under GPLv3 license. See [LICENSE](LICENSE) for more details.
