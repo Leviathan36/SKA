@@ -8,9 +8,9 @@
 ## About
 SKA allows you to implement a very simple and fast [karma](https://en.wikipedia.org/wiki/KARMA_attack) attack.
 
-You can sniff probe requests to choice the fake AP name or, if you want, you could insert manually the name of the AP ([evil twin attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))).
+You can sniff probe requests to choice the fake AP name or, if you want, you could insert manually the name of AP ([evil twin attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))).
 
-When the target has connected to your WLAN you could active the HTTP redirection and perform a MITM attack.
+When target has connected to your WLAN you could active the HTTP redirection and perform a MITM attack.
 
 
 ## Details
